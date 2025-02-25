@@ -2,9 +2,9 @@
 I'm **prothug**, a curious learner who loves exploring new things every day. I enjoy both programming and gaming.
 
 ## About Me
-- 🎮 **Hobbies**: Programming, coding, and gaming
+- 🎮 **Hobbies**: Programming and gaming
 - 🖼 **Favorite Languages**: JavaScript, TypeScript, Java, Python
-- 📚 **Currently Learning**: Java Minecraft development
+- 📚 **Currently Learning**: Java In depth
 - 🤔 **Planning to Learn**: Kotlin, maybe C++, C#, or C
 
 ---
@@ -45,14 +45,6 @@ I'm **prothug**, a curious learner who loves exploring new things every day. I e
 
 ---
 
-## 3D Contributions (Optional)
-<p align="center">
-  <!-- Example placeholder, replace with your generated 3D image URL -->
-  <img src="https://user-images.githubusercontent.com/XXX/XXX.svg" alt="3D Contributions" />
-</p>
-
----
-
 ## Projects and Contributions
 Check out my repositories to see what I've been working on. I'm always open to new ideas and collaborations!  
 **Coming soon...**
@@ -69,11 +61,6 @@ Check out my repositories to see what I've been working on. I'm always open to n
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothg&layout=compact&title_color=ff6666&text_color=ff6666&icon_color=ff6666&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## GitHub Trophies (Optional)
-[![trophy](https://github-profile-trophy.vercel.app/?username=prothg&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
