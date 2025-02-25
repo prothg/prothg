@@ -1,14 +1,15 @@
 # Hey everyone 👋
-
 I'm **prothug**, a curious learner who loves exploring new things every day. I enjoy both programming and gaming.
 
 ## About Me
-- 🎮 **Hobbies**: Programming, coding, and gaming.
-- 🖼 **Favorite Languages**: JavaScript, TypeScript, Java, Python.
-- 📚 **Currently Learning**: Java Minecraft development.
-- 🤔 **Planning to Learn**: Kotlin, maybe C++, C#, or C.
-  
-## Languages and Tools:
+- 🎮 **Hobbies**: Programming, coding, and gaming
+- 🖼 **Favorite Languages**: JavaScript, TypeScript, Java, Python
+- 📚 **Currently Learning**: Java Minecraft development
+- 🤔 **Planning to Learn**: Kotlin, maybe C++, C#, or C
+
+---
+
+## Languages & Tools
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,15 +43,38 @@ I'm **prothug**, a curious learner who loves exploring new things every day. I e
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
+---
+
+## 3D Contributions (Optional)
+<p align="center">
+  <!-- Example placeholder, replace with your generated 3D image URL -->
+  <img src="https://user-images.githubusercontent.com/XXX/XXX.svg" alt="3D Contributions" />
+</p>
+
+---
+
 ## Projects and Contributions
-Check out my repositories to see what I've been working on. I'm always open to new ideas and collaborations!
-coming soon
+Check out my repositories to see what I've been working on. I'm always open to new ideas and collaborations!  
+**Coming soon...**
+
+---
 
 ## Connect with Me
 - 💬 **Discord**: [prothg](https://discord.com/users/853110291042140160)
+
+---
 
 ## GitHub Stats
 [![prothug's GitHub stats](https://github-readme-stats.vercel.app/api?username=prothg&show_icons=true&title_color=ff6666&text_color=ff6666&icon_color=ff6666&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothg&layout=compact&title_color=ff6666&text_color=ff6666&icon_color=ff6666&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## GitHub Trophies (Optional)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prothg&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+*Thanks for visiting my profile! Stay tuned for more updates.* 
